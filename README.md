@@ -12,11 +12,7 @@ Este projeto visa utilizar dados do "Behavioral Risk Factor Surveillance System 
 
 - **Base de Dados:** Utilizamos a base de dados "2015 Annual Survey Data" do CDC.
 - **Pré-processamento:** Realizamos etapas de limpeza, normalização e tratamento de valores ausentes.
-- **Modelagem:** Testamos vários algoritmos de aprendizado de máquina, como Regressão Logística, Árvores de Decisão e Redes Neurais.
+- **Modelagem:** Testamos vários algoritmos de aprendizado de máquina, como Eandom Forest, Árvores de Decisão e Neural Network (MLP).
 - **Avaliação:** Avaliamos o desempenho dos modelos com métricas como precisão, recall e F1-score.
 
-## Resultados
-
-- Identificamos padrões significativos nos dados relacionados ao diabetes.
-- O modelo de Regressão Logística apresentou a melhor performance, com uma
 
