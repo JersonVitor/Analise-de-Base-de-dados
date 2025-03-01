@@ -6,7 +6,9 @@ O diabetes mellitus é uma condição crônica que afeta a regulação dos níve
 
 ## Objetivo
 
-Este projeto visa utilizar dados do "Behavioral Risk Factor Surveillance System (CDC) " para prever o diabetes e fornecer insights para o entendimento e enfrentamento da doença.
+
+Este projeto visa utilizar dados do " Behavioral Risk Factor Surveillance System (CDC) " para prever o diabetes e fornecer insights para o entendimento e enfrentamento da doença.
+
 
 ## Metodologia
 
